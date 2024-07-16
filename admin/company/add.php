@@ -11,7 +11,7 @@
                    <div class="col-lg-12">
                       <h1 class="page-header">Add New Company</h1>
                     </div>
-                    <!-- /.col-lg-12 -->
+                   
                  </div> 
 
                   <div class="form-group">
@@ -33,7 +33,7 @@
                       <div class="col-md-8">
                         <textarea class="form-control input-sm" id="COMPANYADDRESS" name="COMPANYADDRESS" placeholder=
                             "Company Address" type="text" value="" required  onkeyup="javascript:capitalize(this.id, this.value);" autocomplete="off"></textarea>
-                         <!-- <input class="form-control input-sm" id="COMPANYADDRESS" name="COMPANYADDRESS" placeholder="Company Address"   autocomplete="none"/>  -->
+                     
                       </div>
                     </div>
                   </div> 
