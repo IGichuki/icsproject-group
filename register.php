@@ -60,7 +60,7 @@
 			<div class="form-group">
 				<div class="col-md-8">
 					<label class="col-md-4 control-label" for=
-					"Gender">Sex:</label>
+					"Gender">GENDER:</label>
 
 					<div class="col-md-8">
 					 <div class="col-lg-5">
