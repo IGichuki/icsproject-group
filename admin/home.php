@@ -20,7 +20,7 @@
           <div class="small-box bg-aqua">
             <div class="inner">
               <h3><?php echo $numberOfUsers; ?></h3>
-              <p>Users</p>
+              <p>Jobseekers</p>
             </div>
             <div class="icon">
               <i class="ion ion-person"></i>
