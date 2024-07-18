@@ -7,7 +7,7 @@
                 <img src="<?php echo web_root; ?>plugins/home-plugins/img/slides/1.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>innovation</h3> 
-          <p>We create the opportunities</p> 
+          <p>We create opportunities</p> 
            
                 </div>
               </li>
