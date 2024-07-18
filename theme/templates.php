@@ -188,7 +188,7 @@
           <address>
           <strong>Our Company</strong><br>
           JC Main Road, Near Silnile tower<br>
-           Pin-21542 NewYork US.</address>
+           Nairobi</address>
           <p>
             <i class="icon-phone"></i> (123) 456-789 - 1255-12584 <br>
             <i class="icon-envelope-alt"></i> jannopalacios@gmail.com
